@@ -20,7 +20,6 @@ namespace FinalProject
                     * Проверить ячейку
                     * Добавить вещи в ячейку
     */
-    //
     public enum Menu { CreditMiscalculation = 1, CalculatingTheDeposit = 2, Overnight = 3, Cells = 4 }
     public enum SubMenuCreditM { Annuity = 1, Usual = 2 }
     public enum SubMenuDepositC { WithoutReplenishment = 1, WithReplenishment = 2 }

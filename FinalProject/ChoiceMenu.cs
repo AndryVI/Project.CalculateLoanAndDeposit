@@ -25,7 +25,6 @@ namespace FinalProject
             }
 
             //Проверка правильности ввода номера меню
-            //M 
             do
             {
                 Console.ForegroundColor = ConsoleColor.White;
