@@ -14,3 +14,11 @@ C:\Users\Andri\source\repos\FinalProject\FinalProject\obj\Debug\net5.0\FinalProj
 C:\Users\Andri\source\repos\FinalProject\FinalProject\obj\Debug\net5.0\ref\FinalProject.dll
 C:\Users\Andri\source\repos\FinalProject\FinalProject\obj\Debug\net5.0\FinalProject.pdb
 C:\Users\Andri\source\repos\FinalProject\FinalProject\obj\Debug\net5.0\FinalProject.genruntimeconfig.cache
+C:\Users\Andrii\Documents\GitHub\Project-_Bank\FinalProject\obj\Debug\net5.0\FinalProject.csproj.AssemblyReference.cache
+C:\Users\Andrii\Documents\GitHub\Project-_Bank\FinalProject\obj\Debug\net5.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrii\Documents\GitHub\Project-_Bank\FinalProject\obj\Debug\net5.0\FinalProject.AssemblyInfoInputs.cache
+C:\Users\Andrii\Documents\GitHub\Project-_Bank\FinalProject\obj\Debug\net5.0\FinalProject.AssemblyInfo.cs
+C:\Users\Andrii\Documents\GitHub\Project-_Bank\FinalProject\obj\Debug\net5.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Andrii\Documents\GitHub\Project-_Bank\FinalProject\obj\Debug\net5.0\FinalProject.dll
+C:\Users\Andrii\Documents\GitHub\Project-_Bank\FinalProject\obj\Debug\net5.0\ref\FinalProject.dll
+C:\Users\Andrii\Documents\GitHub\Project-_Bank\FinalProject\obj\Debug\net5.0\FinalProject.pdb

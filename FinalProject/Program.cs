@@ -52,7 +52,8 @@ namespace FinalProject
             Overnight CalculateOvernight = new Overnight();
             Cells CalculateCells = new Cells();
 
-            //Базовое заполнение ячеек   
+            //Базовое заполнение ячеек
+            //
             CalculateCells.StartFillingCell();
 
 
