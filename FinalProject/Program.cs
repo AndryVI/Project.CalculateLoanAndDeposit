@@ -89,6 +89,7 @@ namespace FinalProject
                 {
                     selectstartorend = 1;
                 }
+
                 else 
                 {
                     Console.ForegroundColor = ConsoleColor.DarkRed;

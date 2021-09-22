@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Globalization;
 
 
 //Считать проценты по кредиту (Тело кредита, проценты, количество месяцев)
@@ -43,9 +44,11 @@ namespace FinalProject
             }
             while (cheak < 1);*/
 
+            NumberFormatInfo numberFormatInfo = new NumberFormatInfo();
+
 
             Console.Write($"\nПроцентная ставка,  %    : ");
-            interestrate = double.Parse(Console.ReadLine());
+            interestrate = double.Parse(Console.ReadLine(), numberFormatInfo);
 
             Console.Write($"\nСрок выдачи кредита, мес.: ");
             issuedate = Convert.ToInt32(Console.ReadLine());

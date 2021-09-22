@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Globalization;
 
 namespace FinalProject
 {
@@ -17,7 +18,10 @@ namespace FinalProject
             {
                 Console.ForegroundColor = ConsoleColor.DarkYellow;
                 Console.Write(firsttest);
-                givevalue = double.Parse(Console.ReadLine());
+
+                NumberFormatInfo numberFormatInfo = new NumberFormatInfo();
+
+                givevalue = double.Parse(Console.ReadLine(), numberFormatInfo);
                 if (givevalue <= getvalue)
                 {
                     step = 1;
