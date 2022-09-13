@@ -1,3 +1,3 @@
-# Project.LoanAndDeposit
+# Project.CalculateLoanAndDeposit
 
-Project of calculate bank
+Консольний додаток для розрахунку кредиту та депозиту в банку
