@@ -1,2 +1,3 @@
-# Project-_Bank
+# Project.LoanAndDeposit
+
 Project of calculate bank
